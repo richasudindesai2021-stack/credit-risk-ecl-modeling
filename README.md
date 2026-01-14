@@ -36,7 +36,7 @@ This project implements a **Basel III-compliant credit risk framework** to asses
 ```
 credit-risk-ecl-modeling/
 │
-├── Credit_Risk_ECL_Analysis.ipynb    # Complete analysis notebook
+├── Credit_Risk_ECL_Analysis.ipynb    # Complete analysis notebook with visualizations, tables and outputs
 ├── loan_data.csv                     # Dataset (optional)
 ├── README.md                         # Project documentation
 └── .gitignore                        # Git ignore file
