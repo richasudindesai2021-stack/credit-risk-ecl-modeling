@@ -39,7 +39,6 @@ credit-risk-ecl-modeling/
 ├── Credit_Risk_ECL_Analysis.ipynb    # Complete analysis notebook
 ├── loan_data.csv                     # Dataset (optional)
 ├── README.md                         # Project documentation
-├── requirements.txt                  # Python dependencies
 └── .gitignore                        # Git ignore file
 ```
 
